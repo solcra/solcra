@@ -44,11 +44,11 @@ Mi enfoque profesional está basado en:
 ### 🔹 Los de Marketing (2024 - Actualidad)
 - Desarrollo web y móvil
 - Coordinación de equipo y comunicación directa con clientes
-- Manejo de servidores
+- Administración y orquestación de servidores y despliegues
 
 ### 🔹 Fractal Estrategias Sostenibles (2023 - 2024)
 - Desarrollo de plataformas enfocadas en sostenibilidad
-- Administración de servidores y despliegue web
+- Administración y orquestación de servidores y despliegues
 
 ### 🔹 Los de Marketing (2019 - 2022)
 - Desarrollo frontend e infraestructura básica
