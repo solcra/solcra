@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Carlos Granada
 
-🎓 **Ingeniero Informático en formación**  
+🎓 **Ingeniero Informático**  
 💻 **Desarrollador web frontend** con más de 4 años de experiencia  
 🌎 Amante de la eficiencia, el código limpio y el aprendizaje continuo  
 
