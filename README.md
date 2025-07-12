@@ -42,7 +42,7 @@ Mi enfoque profesional está basado en:
 ## 🧩 Experiencia
 
 ### 🔹 Los de Marketing (2024 - Actualidad)
-- 🔗 <a href="https://losdemarketing.com" target="_blank">[**Los de Marketing**]</a> 
+- 🔗 <a href="https://losdemarketing.com" target="_blank">Los de Marketing</a> 
 - Desarrollar, mantener y optimizar sitios web y aplicaciones en tecnologías como PHP, Python, JavaScript y frameworks modernos (Angular, React).
 - Crear y personalizar soluciones en WordPress, incluyendo desarrollo de temas, plugins y automatizaciones con JetEngine, ACF y Elementor.
 - Implementar prácticas DevOps para integración y despliegue continuo (CI/CD), control de versiones con Git y gestión de entornos de desarrollo, staging y producción.
