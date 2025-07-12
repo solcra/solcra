@@ -42,7 +42,7 @@ Mi enfoque profesional está basado en:
 ## 🧩 Experiencia
 
 ### 🔹 Los de Marketing (2024 - Actualidad)
-- 🔗 <a href="https://losdemarketing.com" target="_blank">Los de Marketing</a> 
+- 🔗 [**Los de Marketing**](https://losdemarketing.com)
 - Desarrollar, mantener y optimizar sitios web y aplicaciones en tecnologías como PHP, Python, JavaScript y frameworks modernos (Angular, React).
 - Crear y personalizar soluciones en WordPress, incluyendo desarrollo de temas, plugins y automatizaciones con JetEngine, ACF y Elementor.
 - Implementar prácticas DevOps para integración y despliegue continuo (CI/CD), control de versiones con Git y gestión de entornos de desarrollo, staging y producción.
@@ -54,7 +54,7 @@ Mi enfoque profesional está basado en:
 
 
 ### 🔹 Fractal Estrategias Sostenibles (2023 - 2024)
-- 🌱 <a href="https://www.fractalestrategias.com" target="_blank">[**Fractal Estrategias Sostenibles**]</a>
+- 🌱 [**Fractal Estrategias Sostenibles**](https://fractalestrategias.com)
 - Desarrollar e implementar plataformas web enfocadas en sostenibilidad, optimizando procesos internos y generando herramientas digitales alineadas a objetivos medioambientales y sociales.
 - Administrar y orquestar servidores en entornos Linux, gestionando la infraestructura, la seguridad y la automatización de despliegues para garantizar la alta disponibilidad de los proyectos.
 - Dar soporte técnico a los equipos internos, asegurando la continuidad operativa de plataformas, sistemas y correos electrónicos corporativos.
@@ -65,7 +65,7 @@ Mi enfoque profesional está basado en:
 
 
 ### 🔹 Los de Marketing (2019 - 2022)
-- 🔗 <a href="https://www.losdemarketing.com" target="_blank">[**Los de Marketing**]</a> 
+- 🔗 [**Los de Marketing**](https://losdemarketing.com)
 - Desarrollar, mantener y optimizar sitios web y aplicaciones en tecnologías como PHP, JavaScript y frameworks modernos
 - Crear y personalizar soluciones en WordPress, incluyendo desarrollo de temas, plugins y automatizaciones con JetEngine, ACF y Elementor.
 - Administrar servidores Linux (Ubuntu, Debian) y configurar servicios web (Apache, Nginx)
@@ -74,7 +74,7 @@ Mi enfoque profesional está basado en:
 
 
 ### 🔹 Obvio (2015 - 2019)
-- 🔗 <a href="https://www.obvio.com.co" target="_blank">[**Obvio**]</a> 
+- 🔗 [**Obvio**](https://www.obvio.com.co)
 - Desarrollar, mantener y optimizar sitios web y aplicaciones en tecnologías como PHP, JavaScript y frameworks modernos
 - Crear y personalizar soluciones en WordPress, incluyendo desarrollo de temas, plugins y automatizaciones con JetEngine, ACF y Elementor.
 - Administrar servidores Linux (Ubuntu, Debian) y configurar servicios web (Apache, Nginx)
