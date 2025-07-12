@@ -42,21 +42,44 @@ Mi enfoque profesional está basado en:
 ## 🧩 Experiencia
 
 ### 🔹 Los de Marketing (2024 - Actualidad)
-- Desarrollo web y móvil
-- Coordinación de equipo y comunicación directa con clientes
-- Administración y orquestación de servidores y despliegues
+- 🔗 [**Los de Marketing**](https://www.losdemarketing.com)  
+- Desarrollar, mantener y optimizar sitios web y aplicaciones en tecnologías como PHP, Python, JavaScript y frameworks modernos (Angular, React).
+- Crear y personalizar soluciones en WordPress, incluyendo desarrollo de temas, plugins y automatizaciones con JetEngine, ACF y Elementor.
+- Implementar prácticas DevOps para integración y despliegue continuo (CI/CD), control de versiones con Git y gestión de entornos de desarrollo, staging y producción.
+- Administrar servidores Linux (Ubuntu, Debian) y configurar servicios web (Apache, Nginx), certificados SSL (Let’s Encrypt, ZeroSSL) y reglas de seguridad (CSP, WAF, mitigación DDoS).
+- Monitorear el rendimiento y la seguridad de la infraestructura, realizando auditorías de logs y ajustes preventivos para asegurar la disponibilidad y estabilidad de los proyectos.
+- Colaborar con equipos de marketing y diseño para alinear las implementaciones técnicas con objetivos de conversión y estrategias SEO.
+- Automatizar procesos internos para mejorar la eficiencia operativa y reducir tiempos de respuesta en campañas y lanzamientos.
+- Brindar soporte técnico, mantenimiento evolutivo y optimización de recursos en la nube para proyectos activos y nuevos desarrollos.
+
 
 ### 🔹 Fractal Estrategias Sostenibles (2023 - 2024)
-- Desarrollo de plataformas enfocadas en sostenibilidad
-- Administración y orquestación de servidores y despliegues
+- 🌱 [**Fractal Estrategias Sostenibles**](https://www.fractalestrategias.com)  
+- Desarrollar e implementar plataformas web enfocadas en sostenibilidad, optimizando procesos internos y generando herramientas digitales alineadas a objetivos medioambientales y sociales.
+- Administrar y orquestar servidores en entornos Linux, gestionando la infraestructura, la seguridad y la automatización de despliegues para garantizar la alta disponibilidad de los proyectos.
+- Dar soporte técnico a los equipos internos, asegurando la continuidad operativa de plataformas, sistemas y correos electrónicos corporativos.
+- Gestionar la configuración, mantenimiento y seguridad de servicios de correo electrónico, incluyendo dominios, registros DNS, SPF, DKIM y políticas de protección antispam.
+- Implementar prácticas DevOps para la integración y entrega continua (CI/CD), control de versiones con Git y optimización de recursos en entornos cloud.
+- Supervisar logs, realizar auditorías de seguridad y aplicar medidas preventivas para mitigar riesgos y garantizar la protección de datos.
+- Coordinar con áreas de desarrollo, diseño y estrategia para asegurar la alineación técnica con los objetivos sostenibles de la organización.
+
 
 ### 🔹 Los de Marketing (2019 - 2022)
-- Desarrollo frontend e infraestructura básica
-- Reuniones con clientes y levantamiento de requerimientos
+- 🔗 [**Los de Marketing**](https://www.losdemarketing.com)  
+- Desarrollar, mantener y optimizar sitios web y aplicaciones en tecnologías como PHP, JavaScript y frameworks modernos
+- Crear y personalizar soluciones en WordPress, incluyendo desarrollo de temas, plugins y automatizaciones con JetEngine, ACF y Elementor.
+- Administrar servidores Linux (Ubuntu, Debian) y configurar servicios web (Apache, Nginx)
+- Monitorear el rendimiento y la seguridad de la infraestructura, realizando auditorías de logs y ajustes preventivos para asegurar la disponibilidad y estabilidad de los proyectos.
+- Colaborar con equipos de marketing y diseño para alinear las implementaciones técnicas con objetivos de conversión y estrategias SEO.
+
 
 ### 🔹 Obvio (2015 - 2019)
-- Desarrollo web y móvil desde fases tempranas
-- Soporte técnico y manejo básico de servidores
+- [**Obvio**](https://www.obvio.com.co)  
+- Desarrollar, mantener y optimizar sitios web y aplicaciones en tecnologías como PHP, JavaScript y frameworks modernos
+- Crear y personalizar soluciones en WordPress, incluyendo desarrollo de temas, plugins y automatizaciones con JetEngine, ACF y Elementor.
+- Administrar servidores Linux (Ubuntu, Debian) y configurar servicios web (Apache, Nginx)
+- Monitorear el rendimiento y la seguridad de la infraestructura, realizando auditorías de logs y ajustes preventivos para asegurar la disponibilidad y estabilidad de los proyectos.
+
 
 ---
 
