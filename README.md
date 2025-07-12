@@ -74,7 +74,7 @@ Mi enfoque profesional está basado en:
 
 
 ### 🔹 Obvio (2015 - 2019)
-- [**Obvio**](https://www.obvio.com.co)  
+- 🔗[**Obvio**](https://www.obvio.com.co)  
 - Desarrollar, mantener y optimizar sitios web y aplicaciones en tecnologías como PHP, JavaScript y frameworks modernos
 - Crear y personalizar soluciones en WordPress, incluyendo desarrollo de temas, plugins y automatizaciones con JetEngine, ACF y Elementor.
 - Administrar servidores Linux (Ubuntu, Debian) y configurar servicios web (Apache, Nginx)
