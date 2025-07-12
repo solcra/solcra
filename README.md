@@ -54,7 +54,7 @@ Mi enfoque profesional está basado en:
 
 
 ### 🔹 Fractal Estrategias Sostenibles (2023 - 2024)
-- 🌱 [**Fractal Estrategias Sostenibles**](https://fractalestrategias.com)
+- 🌱 [**Fractal Estrategias Sostenibles**](https://www.estrategiasfractal.com/)
 - Desarrollar e implementar plataformas web enfocadas en sostenibilidad, optimizando procesos internos y generando herramientas digitales alineadas a objetivos medioambientales y sociales.
 - Administrar y orquestar servidores en entornos Linux, gestionando la infraestructura, la seguridad y la automatización de despliegues para garantizar la alta disponibilidad de los proyectos.
 - Dar soporte técnico a los equipos internos, asegurando la continuidad operativa de plataformas, sistemas y correos electrónicos corporativos.
