@@ -91,7 +91,7 @@ Me sigo formando constantemente para estar a la altura de los retos tecnológico
 
 ## 📫 Conecta conmigo
 
-- ✉️ carlos_granada@msn.com  
+- ✉️ carlosgranadacra@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-granada-599642173/)  
 - 💻 [GitHub](https://github.com/solcra)
 
